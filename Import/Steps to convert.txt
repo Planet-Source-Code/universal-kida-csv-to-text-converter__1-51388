@@ -1,0 +1,22 @@
+I will be soon giving you with the new version of it only if the response is good.
+
+Email me your suggestions and feedback @ universalprogrammer@indiatimes.com
+
+
+
+
+Title: CSV to Text File Converter.
+
+Steps to Convert : 
+
+1) Open the VB Project.
+2) Select the CSV file named "1.csv" provided in the zip using "Pick CSV button" and then click on the "import Button".
+3) Once you click the "Import Button" a new folder named "Data" with corresponding text files as of the csv's first column will be available.
+
+4) Similarly follow the steps for CSV "2.csv" and you find that only corresponding data gets appended in the text file. That means if the CSV file has first column "universal" and all the data from csv with first column as "universal" will get appended in the text file "Universal.txt"
+
+
+
+I will be soon giving you with the new version of it only if the response is good.
+
+Email me your suggestions and feedback @ universalprogrammer@indiatimes.com
